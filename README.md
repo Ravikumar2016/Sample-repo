@@ -1,2 +1,1 @@
-# Sample-repo
-Today is Tuesday
+today id Tuesday
