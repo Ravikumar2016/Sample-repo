@@ -1,1 +1,1 @@
-today id Tuesday
+today is monday
